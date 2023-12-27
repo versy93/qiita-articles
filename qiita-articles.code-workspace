@@ -1,0 +1,20 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "workbench.colorCustomizations": {
+      "list.errorForeground": "#b3e5ec",
+      "list.warningForeground": "#00d9ff",
+      "gitDecoration.modifiedResourceForeground": "#00ffb3",
+      "gitDecoration.untrackedResourceForeground": "#f7aeae",
+      "editorLineNumber.foreground": "#999999",
+      "tab.activeBackground": "#a9a9a9",
+      "statusBar.background": "#55c500",
+      "terminal.background": "#090300",
+      "terminal.foreground": "#00ced1"
+    }
+  }
+}
